@@ -1,7 +1,0 @@
-# Triple K Associates Vcs
-   2 │ 19th November 2026 16:32:54 Kelvin Murerwa
-   3 │ A new case was added to the case log
-   4 │ 
-   5 │ 18th November 2026 16:52:43 Kipruto Arusei
-   6 │ A new respondent to the case was added leading us to remodify the previous case log
-
