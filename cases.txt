@@ -1,4 +1,5 @@
 # Triple K Case Log
+
 Case 1
 Election petition
 Client name: Korir
@@ -9,3 +10,7 @@ Defamation
 Client name: Mativo
 The client never leaves mjengo!
 
+Case 3
+Cyber crime
+Client name: Dennis
+Client drives Audi while selling pdfs on Whatsapp!
