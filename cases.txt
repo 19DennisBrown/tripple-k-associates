@@ -24,3 +24,8 @@ Case 5
 Espionage and Leaking State Secrets
 Client Name: Lemayian
 Client commits .env files to public repositories!
+
+Case 6
+Unlawful Detention
+Client name: Kipruto Arusei
+Client has been trapped inside Vim since Tuesday!
