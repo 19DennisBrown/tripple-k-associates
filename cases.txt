@@ -26,12 +26,16 @@ Client Name: Lemayian
 Client commits .env files to public repositories!
 
 Case 6
-<<<<<<< HEAD
 Unlawful Detention
 Client name: Kipruto Arusei
 Client has been trapped inside Vim since Tuesday!
-=======
+
+Case 7
 Conspiracy to commit treason
 Client Name: Daniel
 Client planned to sell state secrets
->>>>>>> 974b61adcf8977b49be338e4d5f23758b36c8332
+
+Case 8
+Breach of Contract
+Client name: Kipruto Arusei
+Client swore "it works on my machine" and switched off his phone!
