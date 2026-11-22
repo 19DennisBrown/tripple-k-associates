@@ -19,3 +19,8 @@ Case 4
 Extortion
 Client name: Korir (Again!)
 Threats of False Accusation
+
+Case 5
+Espionage and Leaking State Secrets
+Client Name: Lemayian
+Client commits .env files to public repositories!
