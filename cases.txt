@@ -24,3 +24,8 @@ Case 5
 Espionage and Leaking State Secrets
 Client Name: Lemayian
 Client commits .env files to public repositories!
+
+Case 6
+Conspiracy to commit treason
+Client Name: Daniel
+Client planned to sell state secrets
