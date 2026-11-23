@@ -54,3 +54,9 @@ Case 11
 2027 elections
 Client name : Ambuso Dismas
 Won the election
+
+Case 12
+Suicide attempt
+Client name:Boyoptum
+Client drank too much ,to a near death
+
