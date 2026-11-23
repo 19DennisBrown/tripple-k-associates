@@ -39,3 +39,8 @@ Case 8
 Breach of Contract
 Client name: Kipruto Arusei
 Client swore "it works on my machine" and switched off his phone!
+
+Case 9
+Copyright infringement
+client name: Ruud
+Ip rights authenticated  by forencics
