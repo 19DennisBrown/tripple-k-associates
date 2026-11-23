@@ -47,5 +47,11 @@ Ip rights authenticated  by forencics
 
 Case 10
 Grand Theft Auto
-Client name: Wamunyoro
+Client name: Waunyoro
 Texas is on fire
+
+Case 11
+Dismal from office
+Client name: Korir
+Client was unfairly dismissed from his job over alleged absence
+
