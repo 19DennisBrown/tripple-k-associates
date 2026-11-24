@@ -84,3 +84,13 @@ Case 17
 Adultery
 Client name: Juma
 Client is abusing underage and people wives is the residence.
+
+Case 18
+Exploitation
+Client name: Kuria
+Client is lamenting of increased cost of electric buses in the city.
+
+Case 19
+Drug trafficking
+Client name: Hassan
+Hassan's car is being used to ferry Cocaine by his driver without him getting a share of proceeds.
