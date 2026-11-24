@@ -74,3 +74,8 @@ Case 15
 Theft
 Client name: Sam
 Client claims his Mac disappeared from his house overnight
+
+Case 16
+Abduction
+Client name: Kibet Bull
+Client is reported to have been abducted while dancing in a Disco Matanga
