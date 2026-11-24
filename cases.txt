@@ -69,3 +69,8 @@ Case 14
 Trespassing
 Client name: Kelvin Mwangi
 Client wandered into GitHub Enterprise Server while looking for GitHub.com
+
+Case 15
+Theft
+Client name: Sam
+Client claims his Mac disappeared from his house overnight
