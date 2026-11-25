@@ -112,4 +112,4 @@ Description: The client reported an incident of banditry involving the theft of 
 Case 23
 Client name Shujaa
 Client is advocating for the disbursement of student loans.
-
+client paid ksh 50000 as retainer
