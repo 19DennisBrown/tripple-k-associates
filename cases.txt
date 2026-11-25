@@ -103,3 +103,7 @@ Obstruction of Justice
 Case 21
 Client Name: Khalif
 Client is flying on the expressway at speeds of 200 km/h to avoid arrest
+
+Case 22
+Client name Shujaa
+Client is advocating for the disbursement of student loans.
